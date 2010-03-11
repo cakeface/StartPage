@@ -1,0 +1,44 @@
+body {
+  background: url(../image/FloraNine_DeltaNine.jpg);
+  font-family: "Calibri","Tahoma",sans-serif;
+  font: #1E1E1E;
+}
+
+ul {
+  padding:0px;
+}
+
+ul li {
+  padding-left: 0;
+  margin-bottom: 1em;
+  list-style-type: none;
+}
+
+input { 
+  float: right;
+  width: 18em;
+}
+
+.contentBox {
+   background: #E8E8E8;
+   padding: 1em;
+   border: 1px solid #2F2D2E;
+}
+
+#searches {
+  display: block;
+  height: 6em;
+  width: 19em;
+  position: absolute;
+  top: 5em;
+  left: 5em;
+} 
+
+#links {
+  display: none;
+  height: 11em;
+  width: 19em;
+  position: absolute;
+  top: 5em;
+  left: 38em;
+}
